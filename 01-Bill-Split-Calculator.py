@@ -11,3 +11,5 @@ number_of_person = int(input('No. of person: '))
 
 split_amount = total / number_of_person
 print(f"each will pay: ${split_amount:.2f}")
+
+print("Thank You!") 
